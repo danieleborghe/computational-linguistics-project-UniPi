@@ -1,0 +1,542 @@
+
+============================================= ANALISI DEL PART OF SPEECH TAGGING DEL TESTO DI JOE BIDEN ==============================================
+
+1) estraete ed ordinate in ordine di frequenza decrescente, indicando anche la relativa frequenza:
+
+1.1) le 10 PoS (Part-of-Speech) più frequenti
+-----------------------
+|  PoS  | FREQUENZA   |
+-----------------------
+| NN    |        1201 |
+| PRP   |        1020 |
+| IN    |         934 |
+| DT    |         868 |
+| .     |         768 |
+| ,     |         692 |
+| NNP   |         587 |
+| VB    |         547 |
+| RB    |         474 |
+| JJ    |         451 |
+-----------------------
+
+1.2.1) i 20 sostantivi più frequenti
+--------------------------------
+|      TOKEN     | FREQUENZA   |
+--------------------------------
+| Trump          |          57 |
+| president      |          47 |
+| America        |          40 |
+| Donald         |          32 |
+| people         |          30 |
+| Folks          |          29 |
+| world          |          28 |
+| time           |          27 |
+| home           |          25 |
+| way            |          24 |
+| States         |          20 |
+| country        |          20 |
+| jobs           |          20 |
+| United         |          19 |
+| years          |          19 |
+| workers        |          18 |
+| nation         |          17 |
+| Look           |          17 |
+| tax            |          16 |
+| Americans      |          15 |
+--------------------------------
+
+1.2.2) i 20 verbi più frequenti
+--------------------------------
+|      TOKEN     | FREQUENZA   |
+--------------------------------
+| 's             |         129 |
+| going          |         104 |
+| is             |          83 |
+| 're            |          76 |
+| have           |          62 |
+| was            |          52 |
+| are            |          50 |
+| be             |          47 |
+| do             |          43 |
+| 'm             |          41 |
+| get            |          39 |
+| said           |          37 |
+| did            |          33 |
+| know           |          30 |
+| has            |          30 |
+| 've            |          30 |
+| got            |          27 |
+| been           |          26 |
+| does           |          19 |
+| done           |          19 |
+--------------------------------
+
+1.3) i 20 bigrammi composti da un Sostantivo seguito da un Verbo più frequenti
+------------------------------------------------
+|     TOKEN 1    |    TOKEN 2    | FREQUENZA   |
+------------------------------------------------
+| Trump          |is             |           8 |
+| fact           |is             |           6 |
+| Americans      |have           |           4 |
+| message        |is             |           4 |
+| country        |is             |           4 |
+| anybody        |know           |           3 |
+| virus          |is             |           3 |
+| Trump          |said           |           3 |
+| Trump          |did            |           3 |
+| Street         |did            |           3 |
+| people         |are            |           3 |
+| Trump          |has            |           3 |
+| future         |has            |           3 |
+| workers        |are            |           3 |
+| president      |has            |           3 |
+| Trump          |does           |           2 |
+| America        |votes          |           2 |
+| virus          |was            |           2 |
+| nation         |have           |           2 |
+| President      |questioning    |           2 |
+------------------------------------------------
+
+1.4) i 20 bigrammi composti da un Aggettivo seguito da un Sostantivo più frequenti
+------------------------------------------------
+|     TOKEN 1    |    TOKEN 2    | FREQUENZA   |
+------------------------------------------------
+| middle         |class          |           8 |
+| more           |money          |           6 |
+| fair           |share          |           5 |
+| first          |time           |           4 |
+| more           |day            |           4 |
+| black          |Americans      |           4 |
+| many           |people         |           4 |
+| American       |people         |           4 |
+| first          |president      |           4 |
+| amazing        |thing          |           4 |
+| many           |times          |           4 |
+| last           |week           |           3 |
+| white          |flag           |           3 |
+| higher         |tax            |           3 |
+| pre-existing   |conditions     |           3 |
+| new            |wave           |           3 |
+| American       |president      |           3 |
+| 21st           |century        |           3 |
+| innovative     |entrepreneurs  |           3 |
+| whole          |lot            |           3 |
+------------------------------------------------
+
+============================================ ANALISI DEL PART OF SPEECH TAGGING DEL TESTO DI DONALD TRUMP ============================================
+
+1) estraete ed ordinate in ordine di frequenza decrescente, indicando anche la relativa frequenza:
+
+1.1) le 10 PoS (Part-of-Speech) più frequenti
+-----------------------
+|  PoS  | FREQUENZA   |
+-----------------------
+| PRP   |        1296 |
+| NN    |         952 |
+| .     |         885 |
+| DT    |         860 |
+| IN    |         802 |
+| ,     |         753 |
+| RB    |         717 |
+| VBP   |         553 |
+| JJ    |         483 |
+| VB    |         477 |
+-----------------------
+
+1.2.1) i 20 sostantivi più frequenti
+--------------------------------
+|      TOKEN     | FREQUENZA   |
+--------------------------------
+| people         |          38 |
+| Biden          |          35 |
+| years          |          27 |
+| country        |          22 |
+| way            |          19 |
+| guy            |          19 |
+| Michigan       |          17 |
+| Joe            |          17 |
+| Thank          |          15 |
+| time           |          15 |
+| history        |          15 |
+| lot            |          15 |
+| China          |          15 |
+| vote           |          15 |
+| state          |          14 |
+| year           |          13 |
+| Mike           |          12 |
+| job            |          12 |
+| suburbs        |          12 |
+| tomorrow       |          11 |
+--------------------------------
+
+1.2.2) i 20 verbi più frequenti
+--------------------------------
+|      TOKEN     | FREQUENZA   |
+--------------------------------
+| 's             |         155 |
+| 're            |         108 |
+| have           |         101 |
+| do             |          97 |
+| is             |          71 |
+| was            |          70 |
+| going          |          59 |
+| know           |          53 |
+| want           |          52 |
+| be             |          48 |
+| said           |          46 |
+| think          |          36 |
+| got            |          34 |
+| are            |          32 |
+| had            |          31 |
+| 've            |          30 |
+| did            |          29 |
+| been           |          28 |
+| doing          |          25 |
+| 'm             |          24 |
+--------------------------------
+
+1.3) i 20 bigrammi composti da un Sostantivo seguito da un Verbo più frequenti
+------------------------------------------------
+|     TOKEN 1    |    TOKEN 2    | FREQUENZA   |
+------------------------------------------------
+| Biden          |is             |           8 |
+| duly           |elected        |           2 |
+| economy        |is             |           2 |
+| hell           |did            |           2 |
+| suburbs        |are            |           2 |
+| Mexico         |is             |           2 |
+| tech           |is             |           2 |
+| football       |is             |           2 |
+| ratings        |are            |           2 |
+| wife           |said           |           1 |
+| Hillary        |was            |           1 |
+| Michigan       |had            |           1 |
+| Bill           |was            |           1 |
+| Oil            |is             |           1 |
+| people         |are            |           1 |
+| companies      |leaving        |           1 |
+| companies      |are            |           1 |
+| anyone         |voted          |           1 |
+| Florida        |looks          |           1 |
+| Ohio           |is             |           1 |
+------------------------------------------------
+
+1.4) i 20 bigrammi composti da un Aggettivo seguito da un Sostantivo più frequenti
+------------------------------------------------
+|     TOKEN 1    |    TOKEN 2    | FREQUENZA   |
+------------------------------------------------
+| fake           |news           |           8 |
+| American       |dream          |           7 |
+| sleepy         |Joe            |           6 |
+| big            |tech           |           6 |
+| little         |bit            |           5 |
+| only           |one            |           4 |
+| great          |job            |           4 |
+| more           |trip           |           3 |
+| biggest        |tax            |           3 |
+| social         |media          |           3 |
+| big            |win            |           3 |
+| beautiful      |victory        |           2 |
+| last           |time           |           2 |
+| long           |time           |           2 |
+| last           |night          |           2 |
+| great          |things         |           2 |
+| first          |time           |           2 |
+| great          |group          |           2 |
+| good           |speech         |           2 |
+| many           |car            |           2 |
+------------------------------------------------
+
+=================================================== ANALISI PROBABILISTICA DEL TESTO DI JOE BIDEN ====================================================
+
+2) estraete ed ordinate i 20 bigrammi di token (dove ogni token deve avere una frequenzamaggiore di 3):
+
+2.1) con probabilità congiunta massima, indicando anche la relativa probabilità
+
+-------------------------------------------------------------------------------
+| TOKEN 1        TOKEN 2        PROBABILITÀ CONGIUNTA         PERCENTUALE     |
+-------------------------------------------------------------------------------
+| going          to             0.008793746669035353          0.88            |
+| .              We             0.006395452122934802          0.64            |
+| .              I              0.005951323503286552          0.6             |
+| .              And            0.005773672055427252          0.58            |
+| ,              I              0.004796589092201101          0.48            |
+| ,              the            0.003997157576834251          0.4             |
+| I              'm             0.0036418546811156512         0.36            |
+| in             the            0.003464203233256351          0.35            |
+| .              He             0.003286551785397051          0.33            |
+| ,              and            0.003197726061467401          0.32            |
+| .              It             0.0030200746136081007         0.3             |
+| It             's             0.0028424231657488007         0.28            |
+| Donald         Trump          0.0028424231657488007         0.28            |
+| 're            going          0.0028424231657488007         0.28            |
+| We             're            0.0026647717178895007         0.27            |
+| the            world          0.0023982945461005507         0.24            |
+| we             're            0.0023094688221709007         0.23            |
+| Folks          ,              0.0023094688221709007         0.23            |
+| ,              but            0.0022206430982412506         0.22            |
+| .              Folks          0.0022206430982412506         0.22            |
+-------------------------------------------------------------------------------
+
+2.2) con probabilità condizionata massima, indicando anche la relativa probabilità
+
+-------------------------------------------------------------------------------
+| TOKEN 1        TOKEN 2        PROBABILITÀ CONDIZIONATA      PERCENTUALE     |
+-------------------------------------------------------------------------------
+| Donald         Trump          1.0                           100.0           |
+| Thank          you            1.0                           100.0           |
+| used           to             1.0                           100.0           |
+| Social         Security       1.0                           100.0           |
+| ca             n't            1.0                           100.0           |
+| grew           up             1.0                           100.0           |
+| wo             n't            1.0                           100.0           |
+| able           to             1.0                           100.0           |
+| allowed        to             1.0                           100.0           |
+| hundred        million        1.0                           100.0           |
+| Park           Avenue         1.0                           100.0           |
+| Wall           Street         1.0                           100.0           |
+| share          .              1.0                           100.0           |
+| Delaware       .              1.0                           100.0           |
+| message        is             1.0                           100.0           |
+| telling        us             1.0                           100.0           |
+| Dr.            Fauci          1.0                           100.0           |
+| sees           the            1.0                           100.0           |
+| Affordable     Care           1.0                           100.0           |
+| Care           Act            1.0                           100.0           |
+-------------------------------------------------------------------------------
+
+2.3) con forza associativa (calcolata in termini di Local Mutual Information) massima, indicando anche la relativa forza associativa
+
+-------------------------------------------------------------------------------
+| TOKEN 1        TOKEN 2        L. MUTUAL INFORMATION         ARROTONDAMENTO  |
+-------------------------------------------------------------------------------
+| going          to             496.6723503719126             496.67          |
+| .              We             280.71799122245704            280.72          |
+| .              And            246.33556665910203            246.34          |
+| Donald         Trump          244.02473339849843            244.02          |
+| I              'm             229.62795944735007            229.63          |
+| It             's             186.1893758926551             186.19          |
+| 're            going          176.32946244106049            176.33          |
+| We             're            176.09095504767492            176.09          |
+| United         States         163.05718186762527            163.06          |
+| .              I              146.3931036676618             146.39          |
+| we             're            138.87430776009376            138.87          |
+| .              He             135.52193169863807            135.52          |
+| the            world          130.99337985499318            130.99          |
+| .              It             129.75756018629986            129.76          |
+| in             the            107.43907482421244            107.44          |
+| did            n't            105.67760041025673            105.68          |
+| ,              I              103.7308254624174             103.73          |
+| Folks          ,              100.52882913435992            100.53          |
+| ,              but            99.18627942161812             99.19           |
+| does           n't            94.25763371667423             94.26           |
+-------------------------------------------------------------------------------
+
+================================================== ANALISI PROBABILISTICA DEL TESTO DI DONALD TRUMP ==================================================
+
+2) estraete ed ordinate i 20 bigrammi di token (dove ogni token deve avere una frequenzamaggiore di 3):
+
+2.1) con probabilità congiunta massima, indicando anche la relativa probabilità
+
+-------------------------------------------------------------------------------
+| TOKEN 1        TOKEN 2        PROBABILITÀ CONGIUNTA         PERCENTUALE     |
+-------------------------------------------------------------------------------
+| ,              and            0.010337515462095777          1.03            |
+| .              We             0.006891676974730518          0.69            |
+| .              And            0.006361547976674324          0.64            |
+| .              I              0.006184838310655593          0.62            |
+| do             n't            0.004506096483477646          0.45            |
+| ,              ``             0.004417741650468281          0.44            |
+| going          to             0.004417741650468281          0.44            |
+| .              They           0.004417741650468281          0.44            |
+| it             .              0.0037992578194027214         0.38            |
+| .              ''             0.0037992578194027214         0.38            |
+| .              You            0.0037109029863933557         0.37            |
+| we             're            0.003445838487365259          0.34            |
+| ,              I              0.003180773988337162          0.32            |
+| in             the            0.003004064322318431          0.3             |
+| .              It             0.003004064322318431          0.3             |
+| want           to             0.0029157094893090653         0.29            |
+| .              But            0.0029157094893090653         0.29            |
+| 're            going          0.0028273546562996997         0.28            |
+| ,              but            0.002738999823290334          0.27            |
+| ,              we             0.0026506449902809685         0.27            |
+-------------------------------------------------------------------------------
+
+2.2) con probabilità condizionata massima, indicando anche la relativa probabilità
+
+-------------------------------------------------------------------------------
+| TOKEN 1        TOKEN 2        PROBABILITÀ CONDIZIONATA      PERCENTUALE     |
+-------------------------------------------------------------------------------
+| Thank          you            1.0                           100.0           |
+| ca             n't            1.0                           100.0           |
+| allowed        to             1.0                           100.0           |
+| fracking       .              1.0                           100.0           |
+| Oh             ,              1.0                           100.0           |
+| By             the            1.0                           100.0           |
+| Air            Force          1.0                           100.0           |
+| person         .              1.0                           100.0           |
+| rounding       the            1.0                           100.0           |
+| used           to             1.0                           100.0           |
+| 1              percent        1.0                           100.0           |
+| 4              trillion       1.0                           100.0           |
+| Let            's             1.0                           100.0           |
+| lot            of             0.9333333333333333            93.33           |
+| dream          .              0.8571428571428571            85.71           |
+| going          to             0.847457627118644             84.75           |
+| Where          's             0.8                           80.0            |
+| Russia         ,              0.8                           80.0            |
+| millions       of             0.8                           80.0            |
+| 400            miles          0.8                           80.0            |
+-------------------------------------------------------------------------------
+
+2.3) con forza associativa (calcolata in termini di Local Mutual Information) massima, indicando anche la relativa forza associativa
+
+-------------------------------------------------------------------------------
+| TOKEN 1        TOKEN 2        L. MUTUAL INFORMATION         ARROTONDAMENTO  |
+-------------------------------------------------------------------------------
+| ,              and            347.0698408059332             347.07          |
+| do             n't            298.4695131288798             298.47          |
+| .              We             277.4847031969772             277.48          |
+| going          to             268.78977605397966            268.79          |
+| .              And            261.5429436093022             261.54          |
+| 're            going          186.52162785783867            186.52          |
+| we             're            185.57921457880227            185.58          |
+| .              They           182.89410064025364            182.89          |
+| ,              ``             174.3796183363896             174.38          |
+| want           to             163.63171380217435            163.63          |
+| .              I              156.7817021860885             156.78          |
+| You            know           152.8602517884924             152.86          |
+| .              You            139.0253730830918             139.03          |
+| .              ''             138.98384244329657            138.98          |
+| I              'm             136.91472455131893            136.91          |
+| in             the            122.37397015533132            122.37          |
+| .              But            122.32926987228498            122.33          |
+| .              It             121.28317604540297            121.28          |
+| ,              but            121.20458638973602            121.2           |
+| I              think          109.874309750332              109.87          |
+-------------------------------------------------------------------------------
+
+=========================== MODELLI MASSIMI DI MARKOV 1 PER LE FRASI DI LUNGHEZZA DA 8 A 15 TOKENS NEL TESTO DI JOE BIDEN ============================
+
+3) per ogni lunghezza di frase da 8 a 15 token, estraete la frase con probabilità più alta, dove la probabilità deve essere calcolata attraverso un modello di Markov di ordine 1 usando lo Add-one Smoothing. Il modello deve usare le statistiche estratte dal corpus che contiene le frasi
+-------------------------------------------------------------------------------------------------------------
+| LUNGHEZZA                                 FRASE                                 MODELLO MARKOV 1          |
+-------------------------------------------------------------------------------------------------------------
+| 8         We're going to beat this virus.                                       2.462290639898989e-18     |
+| 9         Folks, I'm not going to forget.                                       7.661420485434933e-20     |
+| 10        We're not going to do anything about it.                              2.055476479558994e-22     |
+| 11        Look, we're going to act to protect healthcare.                       5.127782670097893e-25     |
+| 12        We're going to act to protect healthcare by the way.                  2.6709965789950074e-27    |
+| 13        We're going to get it under control, I promise you.                   6.2975533276584e-29       |
+| 14        Folks, we're going to act to get this COVID under control.            3.6942144188597493e-32    |
+| 15        But folks, the fact is I'm going to protect your Social Security.     2.2955013254478466e-36    |
+-------------------------------------------------------------------------------------------------------------
+
+========================== MODELLI MASSIMI DI MARKOV 1 PER LE FRASI DI LUNGHEZZA DA 8 A 15 TOKENS NEL TESTO DI DONALD TRUMP ==========================
+
+3) per ogni lunghezza di frase da 8 a 15 token, estraete la frase con probabilità più alta, dove la probabilità deve essere calcolata attraverso un modello di Markov di ordine 1 usando lo Add-one Smoothing. Il modello deve usare le statistiche estratte dal corpus che contiene le frasi
+-------------------------------------------------------------------------------------------------------------
+| LUNGHEZZA                                 FRASE                                 MODELLO MARKOV 1          |
+-------------------------------------------------------------------------------------------------------------
+| 8         We're going to see how that.                                          9.467600654789041e-18     |
+| 9         I think we're going to win everything.                                7.814145521652398e-19     |
+| 10        I think we're doing very well all over.                               7.256949805389891e-23     |
+| 11        I don't care about the men in the suburbs.                            9.996988325125222e-26     |
+| 12        I don't think you're going to be too happy.                           5.040450190836028e-26     |
+| 13        I don't think that's going to be a good pick.                         1.3374063184589533e-28    |
+| 14        I said, "No, Shinzo, you got to do it.                                4.840561725189058e-30     |
+| 15        I really don't believe he's going to win, because of this.            2.645838920457682e-34     |
+-------------------------------------------------------------------------------------------------------------
+
+================================================ ANALISI DELLE ENTITÀ NOMINATE NEL TESTO DI JOE BIDEN ================================================
+
+4) dopo aver individuato e classificato le Entità Nominate (NE) presenti nel testo, estraete
+
+4.1) i 15 nomi propri di persona più frequenti (tipi), ordinati per frequenza
+-------------------------------------
+|        ENTITÀ       | FREQUENZA   |
+-------------------------------------
+|  Donald             |          32 |
+|  Donald Trump       |          32 |
+|  Trump              |          21 |
+|  Look               |          15 |
+|  Honk               |           7 |
+|  Tim                |           4 |
+|  Abraham            |           3 |
+|  Franco             |           3 |
+|  Sherrod            |           3 |
+|  Barack             |           3 |
+|  Wall Street        |           3 |
+|  Joyce              |           3 |
+|  Rocky              |           3 |
+|  Abraham Lincoln    |           3 |
+|  God                |           3 |
+-------------------------------------
+
+4.2) i 15 nomi propri di luogo più frequenti (tipi), ordinati per frequenza
+-------------------------------------
+|        ENTITÀ       | FREQUENZA   |
+-------------------------------------
+|  America            |          39 |
+|  American           |          18 |
+|  United             |          18 |
+|  United States      |          18 |
+|  Ohio               |          10 |
+|  China              |           9 |
+|  Scranton           |           8 |
+|  Detroit            |           5 |
+|  Delaware           |           5 |
+|  Pennsylvania       |           5 |
+|  Cleveland          |           4 |
+|  Americans          |           4 |
+|  Chief              |           4 |
+|  Claymont           |           3 |
+|  Iraq               |           3 |
+-------------------------------------
+
+============================================== ANALISI DELLE ENTITÀ NOMINATE NEL TESTO DI DONALD TRUMP ===============================================
+
+4) dopo aver individuato e classificato le Entità Nominate (NE) presenti nel testo, estraete
+
+4.1) i 15 nomi propri di persona più frequenti (tipi), ordinati per frequenza
+-------------------------------------
+|        ENTITÀ       | FREQUENZA   |
+-------------------------------------
+|  Biden              |          19 |
+|  Joe                |          14 |
+|  Mike               |          12 |
+|  Joe Biden          |          10 |
+|  Hunter             |           8 |
+|  Peter              |           6 |
+|  Bill               |           5 |
+|  Mike Pence         |           5 |
+|  Michigan           |           5 |
+|  Sleepy             |           4 |
+|  Trump              |           4 |
+|  Hillary            |           4 |
+|  Lee                |           3 |
+|  Sleepy Joe         |           3 |
+|  Lara               |           3 |
+-------------------------------------
+
+4.2) i 15 nomi propri di luogo più frequenti (tipi), ordinati per frequenza
+-------------------------------------
+|        ENTITÀ       | FREQUENZA   |
+-------------------------------------
+|  China              |          15 |
+|  American           |          14 |
+|  Michigan           |          12 |
+|  Europe             |           7 |
+|  Texas              |           6 |
+|  Mexico             |           6 |
+|  Pennsylvania       |           6 |
+|  America            |           4 |
+|  Ukraine            |           4 |
+|  Japan              |           4 |
+|  Washington         |           4 |
+|  Kamala             |           4 |
+|  Moscow             |           4 |
+|  United             |           3 |
+|  Iowa               |           3 |
+-------------------------------------
