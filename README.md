@@ -1,4 +1,4 @@
-# UniPi_Project-2020_USA_Elections_Speeches_Analysis
+# 2020USAElectionsSpeechesAnalysis_UniPi
 The project consists in the textual analysis, carried out using `Python` language and `NLTK` library, of the speeches made by the two candidates in the US presidential elections on November 2, 2020.
 
 * This project was carried out in relation to the course of Computational Linguistics of the degree course in [Digital humanities](https://infouma.fileli.unipi.it/laurea-triennale/) (*Informatica umanistica*), at the [University of Pisa](https://www.unipi.it/index.php/english).
