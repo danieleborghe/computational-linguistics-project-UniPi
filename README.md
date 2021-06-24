@@ -1,11 +1,41 @@
-# PROJECT_2020USAElectionsSpeechesAnalysis_UniPi
+# project_2020USAElectionsSpeechesAnalysis_UniPi
+* The project consists in the textual analysis, carried out using Python language and NLTK library, of the speeches made by the two candidates in the US presidential elections on November 2, 2020.
 
-## Information
+* This project was carried out in relation to the course of Computational Linguistics of the degree course in [Digital humanities](https://infouma.fileli.unipi.it/laurea-triennale/) (*Informatica umanistica*), at the [University of Pisa](https://www.unipi.it/index.php/english).
+
+* More information about the course of Computational linguistics are avaiable [here](https://infouma.fileli.unipi.it/laurea-triennale/insegnamenti-20192020/corso/?lang=it&cds=IFU-L&anno=2020&id=47157).
+
+## General information
 * __Type:__ university project
 * __Year:__ academic year 2020/2021
-* __Lang:__ english/italian
-* __Languages:__`Python`
-* __Description:__ the project consists in the textual analysis, carried out using Python language and NLTK library, of the speeches made by the two candidates in the US presidential elections on November 2, 2020. More information about the course of Computational linguistics are avaiable [here](https://infouma.fileli.unipi.it/laurea-triennale/insegnamenti-20192020/corso/?lang=it&cds=IFU-L&anno=2020&id=47157).
+* __Language:__ english (corpora)/italian
 
-## Guide
-* `programma1.py` and `programma2.py` are two different programs in python based on NLTk library for text analysis
+## Languages and technologies
+* `Python 3`
+	- `NLTK`
+	- `Regex`
+
+## The repository
+Inside the repository you will find:
+* The two Corpora of speeches:
+	- `file1-joeBiden.txt`
+	- `file2-donaldTrump.txt`
+* The two Python programs (two different linguistic analysis):
+	- `programma1.py`
+	- `programma2.py`
+* The two output file (in italian):
+	- `outputProgramma1.txt`
+	- `outputProgramma2.txt`
+* The project instructions (in italian):
+	- `Progetto Finale.pdf`
+
+## Launch
+To start the two programs, you have to write in your Python console the following script:
+
+```Python
+#launch of the program 1
+>>> python3 programma1.py file1-joeBiden.txt file2-donaldTrump.txt
+#launch of the program 2
+>>> python3 programma2.py file1-joeBiden.txt file2-donaldTrump.txt
+```
+
